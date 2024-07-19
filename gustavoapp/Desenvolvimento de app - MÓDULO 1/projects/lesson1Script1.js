@@ -1,0 +1,10 @@
+console.log('Hello Wordl!')
+console.log("Now let's learn how to do a sum , let's check the sum of 5+5")
+console.log(5+5)
+console.log("Now let's do a multiplication and a sum on the same account: 5*5+5: ")
+console.log(5*5+5)
+console.log( `Now we will calculate 10*3, which is equal to: ${10 * 3}`)
+console.log( `Now we will calculate 9/3+4, which is equal to: ${9 / 3 * 4}`)
+console.log( `Now we will calculate 6+5*11, which is equal to: ${6 + 5 * 11}`)
+console.log( `Now we will calculate 10*3, which is equal to: ${2 - 9 * 2}`)
+
