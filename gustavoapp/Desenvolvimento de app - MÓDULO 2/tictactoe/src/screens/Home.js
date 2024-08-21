@@ -9,7 +9,7 @@ export default function Home(props){
 
                 <View>
                     <TouchableOpacity>
-                        <Image/>
+                        <Image/> aq
                     </TouchableOpacity>
                 </View>
 
