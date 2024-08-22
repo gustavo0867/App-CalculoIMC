@@ -27,5 +27,5 @@ Este aplicativo simples e intuitivo ajuda os usuários a monitorar sua saúde ca
 
 ## Captura de tela
 
-![foto](https://i.ibb.co/TTXbPsS/Whats-App-Image-2024-08-22-at-12-48-12.jpg)
+<img src="https://i.ibb.co/TTXbPsS/Whats-App-Image-2024-08-22-at-12-48-12.jpg" alt="foto" width="200"/>
 
